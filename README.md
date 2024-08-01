@@ -1,5 +1,3 @@
-# Cat-and-Dog-Image-Classifier
-
 # Cat and Dog Image Classifier
 
 This repository contains a Jupyter Notebook for building and training a convolutional neural network (CNN) to classify images of cats and dogs. The project leverages TensorFlow and Keras libraries for deep learning.
